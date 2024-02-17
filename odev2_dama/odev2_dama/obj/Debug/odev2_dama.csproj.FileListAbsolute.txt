@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\bin\Debug\odev2_dama.exe.config
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\bin\Debug\odev2_dama.exe
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\bin\Debug\odev2_dama.pdb
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.Form1.resources
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.Properties.Resources.resources
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.exe
+C:\Users\hp\source\repos\odev2_dama\odev2_dama\obj\Debug\odev2_dama.pdb
